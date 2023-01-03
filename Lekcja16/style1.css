@@ -1,0 +1,44 @@
+body
+{
+    background-color: black;
+    text-align: center;
+}
+#b1
+{
+    background-color: yellow;
+    width: 70%;
+    border-top: 5px solid red;
+    margin: 10px;
+    padding: 20px;
+}
+#b2
+{
+    background-color: yellow;
+    width: 70%;
+    border-top: 5px solid red;
+    margin: 10px;
+    padding-top: 20px;
+    padding-bottom: 20px;
+    padding-left: 40px;
+    padding-right: 40px;
+    background-image: url("tlo.png");
+    border-left: 5px solid red;
+    border-right: 5px solid red;
+    
+}
+#b3
+{
+    background-color: yellow;
+    width: 70%;
+    border-top: 5px solid red;
+    margin: 10px;
+    padding: 20px;
+}
+#b4
+{
+    background-color: yellow;
+    width: 70%;
+    border-top: 5px solid red;
+    margin: 10px;
+    padding: 20px;
+}

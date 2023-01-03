@@ -1,0 +1,22 @@
+#jeden
+{
+    border-top: 3px red dashed;
+    border-bottom:5px green double;
+}
+#dwa
+{
+    border-top: 3px red dashed;
+}
+#trzy
+{
+    border-top: 3px red dashed;   
+}
+#cztery
+{
+    border-top: 3px red dashed;  
+}
+#piec
+{
+    border-top: 3px red dashed;  
+    border-left: 10px blue dotted;
+}

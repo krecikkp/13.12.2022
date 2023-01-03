@@ -1,0 +1,20 @@
+#ax1
+{
+    height: 250px;
+    width: 300px;
+    border: 1px red solid;
+    margin-left: 50px;
+}
+#ax2
+{
+    max-width: 300px;
+    max-height: 250px;
+    border: 1px red solid;
+    margin-left: 50px;
+}
+#ax3
+{
+    width: 30%;
+    border: 1px red solid;
+    margin-left: 50px;
+}
